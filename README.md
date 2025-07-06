@@ -1,4 +1,4 @@
-Este es el archivo ejemplo mencionado en el artículo: “Comprendiendo cómo funciona OpenVPN y configurar un Split Tunnel basado en usuarios” de dev.to
+Este es el archivo ejemplo mencionado en el artículo: “[Comprendiendo cómo funciona OpenVPN y configurar un Split Tunnel basado en usuarios](https://dev.to/federico_jensen/comprendiendo-como-funciona-openvpn-y-configurar-un-split-tunnel-basado-en-usuarios-nixos-2n15)” de dev.to
 
 El script configura, automáticamente, el networking de nuestro sistema con un Split Tunnel basado en UID. Solo el tráfico generado por un rango de usuarios determinado usará el túnel de OpenVPN, el resto usará la red normal. 
 
